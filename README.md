@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Spotify 🎧
+[<img src="https://spotify-now-playing-beta.vercel.app/api/spotify" alt="Ashu Songs Playing" width="600" />](https://open.spotify.com/user/czmnkla0edw53kerkv9w4aq8b)
+
