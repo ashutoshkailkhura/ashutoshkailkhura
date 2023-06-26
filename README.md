@@ -20,8 +20,22 @@
 
 </p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ashutoshkailkhura&count_private=true&show_icons=true&theme=dark" alt="ashutosh kailkhura" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshkailkhura&hide=html&langs_count=8&layout=compact&theme=dark" alt="ashutoshkailkhura" height="165" />
+ </p>
+
 <h2>Happy coding! 🚀</h2>
 </br>
+
+### Now Playing - Spotify 🎧
+
+ <p align="center">
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&redirect=true">
+  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true"/>
+</a>
+</p>
+
 <p>
   🔗 <b>Contact Me At</b>: <br/>
   <b><a href="mailto:ashi3377@gmail.com">Email: </>ashi3377@gmail.com .</a></p><br/>
