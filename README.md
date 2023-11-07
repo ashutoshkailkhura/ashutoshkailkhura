@@ -16,7 +16,7 @@
   😎 My name is <b>Ashutosh </b>,  Seft-Taught Developer.<br/>
   I'm a passionate <b>Mobile app developer</b> with a strong focus on Android development and also have hands-on experience with React Native to build cross-platform applications for Android and IOS<br/>
 
-🌱 I’m currently Exploring Kotlin Multiplatform
+🌱 Working on Kotlin Multiplatform and React Native 
 
 </p>
 
